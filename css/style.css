@@ -297,7 +297,7 @@ font-style: normal;
 
 @media (max-width: 621px){
   .concept{
-    padding: 92px 0px 52px 0px;
+    padding: 42px 0px 52px 0px;
   }
   .concept__form{
     display: flex;
